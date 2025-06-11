@@ -24,7 +24,9 @@ Se trata de una aplicación web construida con **React y Vite**, que permite la 
   ![image](https://github.com/user-attachments/assets/0a67cf70-1c99-4e1a-8030-b2dbe19352b5)
 
 - Rutas privadas con `react-router-dom`
+  
 - Crear nueva suscripción
+  
   ![image](https://github.com/user-attachments/assets/02a1eeaa-9754-43cc-956d-a707a7d30501)
 
 - Editar suscripción existente
