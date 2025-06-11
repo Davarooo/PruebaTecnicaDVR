@@ -32,6 +32,7 @@ Se trata de una aplicación web construida con **React y Vite**, que permite la 
 - Editar suscripción existente
   
   ![image](https://github.com/user-attachments/assets/24886a75-925e-4329-8131-4b83372f795b)
+
   
 - Eliminar suscripción con confirmación
   ![image](https://github.com/user-attachments/assets/0c574737-5110-4f82-8a6e-63f5a6fcb508)
