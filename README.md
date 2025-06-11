@@ -2,6 +2,8 @@
 
 Este proyecto fue desarrollado como parte de la **Prueba Técnica del submódulo Web 2 (Nivel 3)** del programa **Técnico Laboral en Desarrollo de Software**.
 
+VERCEL https://prueba-tecnica-dvr.vercel.app/login
+
 ---
 
 ## 🧾 Descripción
