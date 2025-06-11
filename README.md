@@ -35,6 +35,7 @@ Se trata de una aplicación web construida con **React y Vite**, que permite la 
 
   
 - Eliminar suscripción con confirmación
+  
   ![image](https://github.com/user-attachments/assets/0c574737-5110-4f82-8a6e-63f5a6fcb508)
 
 - Listar suscripciones guardadas
